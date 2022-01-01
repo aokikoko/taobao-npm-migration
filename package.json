@@ -1,6 +1,6 @@
 {
   "name": "taobao-npm-migration",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "替换存量package-lock.json 与.npmrc 文件淘宝源的工具",
   "main": "index.js",
   "bin": {
@@ -8,6 +8,10 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aokikoko/taobao-npm-migration.git"
   },
   "keywords": [
     "taobao",
