@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": "src"
+    "baseUrl": "lib"
   },
-  "include": ["src"]
+  "include": ["lib"]
 }
