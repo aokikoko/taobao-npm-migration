@@ -1,6 +1,6 @@
 {
   "name": "taobao-npm-migration",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "替换存量package-lock.json 与.npmrc 文件淘宝源的工具",
   "main": "index.js",
   "bin": {
