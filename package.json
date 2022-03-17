@@ -7,7 +7,7 @@
     "taobao-npm-migration": "index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^8.3.0"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
   }
 }
